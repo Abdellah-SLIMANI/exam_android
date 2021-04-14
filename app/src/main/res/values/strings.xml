@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidExam</string>
+    <string name="app_title">Exam</string>
+    <string name="ville">Ville</string>
+    <string name="quantity">Quantity (m3)</string>
+    <string name="button_text">Calculer</string>
+    <string name="montant_text">Le Montant a payer en Dirham est:</string>
+</resources>
